@@ -1,0 +1,25 @@
+1:pwd- path of working directory
+
+2:clear- clears out the CLI
+
+3:ls- lists files and folders in the current directory
+
+4:ls -a: lists both hidden and unhidden files
+
+5:cd :Takes you to your home directory
+  cd..: Takes you up one directory
+
+6:mkdir: make directory,creates a new folder
+
+7:touch: creates an empty file
+
+8:cp -r DOCS MORE_DOCS: copies DOCS into MORE_DOCS
+
+9:rm: remove
+
+10:mv DOCS MORE_DOCS: move file from DOCS to MORE_DOCS
+
+11:echo: print whatever argument you provide
+
+12:date: shows the date of the system.
+
